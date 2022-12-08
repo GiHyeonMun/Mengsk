@@ -142,9 +142,11 @@ div.contents > div.user-name {
   line-height: 29px;
 
   color: #000000;
+
+  cursor: pointer;
 }
 
-div.contents > div.user-email {
+div.contents > div.user-email, div.user-number {
   width: 329px;
   height: 18px;
   margin-left: 50px;
